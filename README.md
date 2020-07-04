@@ -1,4 +1,4 @@
-# Using Python for Research
+# [Using Python for Research](https://www.edx.org/course/using-python-for-research)
 
 This repository contains my solutions for programming assigments of this course.
 You should not use these codes for your own solutions in case you are doing the
